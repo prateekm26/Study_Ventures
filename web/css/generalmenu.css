@@ -1,0 +1,47 @@
+
+#menu ul{
+    list-style-type: none;
+    
+    
+}
+#menu ul li
+{
+   display: inline;
+  
+   //background-color: #0a2035;
+   //opacity: 0.2;
+ 
+   
+    
+}
+#menu ul li :hover
+{
+   //display: none; 
+   //background-color: #00cc00;
+}
+#menu ul ul
+{
+    display:none;
+    
+}
+#menu ul :hover >ul 
+{
+    display:block;
+    position: absolute;
+}
+
+#menu ul li a
+{
+    text-decoration: none;
+    color:whitesmoke;
+    padding:8px;
+     //text-align: center;
+    font-weight: bold;
+}
+#menu ul li a:hover
+{
+ 
+color:black;
+border-radius: 0px 25px 0px 25px;
+background-color: #00cc66;
+}
