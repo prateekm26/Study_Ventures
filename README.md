@@ -1,1 +1,1 @@
-# Study_Ventures #jsp #servlet #javaproject #studyportal
+# Study_Ventures
